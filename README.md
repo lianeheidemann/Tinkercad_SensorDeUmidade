@@ -7,6 +7,10 @@ O sistema realiza a leitura da umidade do solo utilizando um sensor de umidade, 
 
 ---
 
+Perfil no Tinkercad: https://www.tinkercad.com/dashboard/designs/all
+
+---
+
 # 🚀 Funcionalidades
 
 - ✅ Leitura da umidade do solo
